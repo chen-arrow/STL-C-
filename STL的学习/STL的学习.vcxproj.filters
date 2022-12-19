@@ -21,5 +21,8 @@
     <ClCompile Include="赋值操作.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="容器的大小和容量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
