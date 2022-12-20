@@ -40,7 +40,7 @@ void test02()
 	cout << "容量：" << v.capacity()<<endl;
 	cout << "大小: " << v.size()<<endl;
 
-	//不能改变容器的大小
+	//不能改变容器的大小 111
 	v.resize(3);
 	cout << "容量：" << v.capacity() << endl;
 	cout << "大小: " << v.size() << endl;
