@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL的学习", "STL的学习\STL的学习.vcxproj", "{7C364C21-5000-450C-A0AB-A16CA92ACF1A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "deque的学习", "deque的学习\deque的学习.vcxproj", "{29A552F3-E86D-4C19-A919-F32E09AF10FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{7C364C21-5000-450C-A0AB-A16CA92ACF1A}.Release|x64.Build.0 = Release|x64
 		{7C364C21-5000-450C-A0AB-A16CA92ACF1A}.Release|x86.ActiveCfg = Release|Win32
 		{7C364C21-5000-450C-A0AB-A16CA92ACF1A}.Release|x86.Build.0 = Release|Win32
+		{29A552F3-E86D-4C19-A919-F32E09AF10FD}.Debug|x64.ActiveCfg = Debug|x64
+		{29A552F3-E86D-4C19-A919-F32E09AF10FD}.Debug|x64.Build.0 = Debug|x64
+		{29A552F3-E86D-4C19-A919-F32E09AF10FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{29A552F3-E86D-4C19-A919-F32E09AF10FD}.Debug|x86.Build.0 = Debug|Win32
+		{29A552F3-E86D-4C19-A919-F32E09AF10FD}.Release|x64.ActiveCfg = Release|x64
+		{29A552F3-E86D-4C19-A919-F32E09AF10FD}.Release|x64.Build.0 = Release|x64
+		{29A552F3-E86D-4C19-A919-F32E09AF10FD}.Release|x86.ActiveCfg = Release|Win32
+		{29A552F3-E86D-4C19-A919-F32E09AF10FD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
