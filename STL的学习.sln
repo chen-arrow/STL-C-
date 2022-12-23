@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "STL的学习", "STL的学�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "deque的学习", "deque的学习\deque的学习.vcxproj", "{29A552F3-E86D-4C19-A919-F32E09AF10FD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "案例", "案例\案例.vcxproj", "{4CAA0A86-D8D5-40AD-9DB5-0373881CD12B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{29A552F3-E86D-4C19-A919-F32E09AF10FD}.Release|x64.Build.0 = Release|x64
 		{29A552F3-E86D-4C19-A919-F32E09AF10FD}.Release|x86.ActiveCfg = Release|Win32
 		{29A552F3-E86D-4C19-A919-F32E09AF10FD}.Release|x86.Build.0 = Release|Win32
+		{4CAA0A86-D8D5-40AD-9DB5-0373881CD12B}.Debug|x64.ActiveCfg = Debug|x64
+		{4CAA0A86-D8D5-40AD-9DB5-0373881CD12B}.Debug|x64.Build.0 = Debug|x64
+		{4CAA0A86-D8D5-40AD-9DB5-0373881CD12B}.Debug|x86.ActiveCfg = Debug|Win32
+		{4CAA0A86-D8D5-40AD-9DB5-0373881CD12B}.Debug|x86.Build.0 = Debug|Win32
+		{4CAA0A86-D8D5-40AD-9DB5-0373881CD12B}.Release|x64.ActiveCfg = Release|x64
+		{4CAA0A86-D8D5-40AD-9DB5-0373881CD12B}.Release|x64.Build.0 = Release|x64
+		{4CAA0A86-D8D5-40AD-9DB5-0373881CD12B}.Release|x86.ActiveCfg = Release|Win32
+		{4CAA0A86-D8D5-40AD-9DB5-0373881CD12B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
