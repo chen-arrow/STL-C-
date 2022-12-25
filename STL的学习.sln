@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stack的学习", "stack的�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "queue的学习", "queue的学习\queue的学习.vcxproj", "{23CCDF4A-91C2-4FA5-A95E-D7968E695703}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "list的学习", "list的学习\list的学习.vcxproj", "{A591A6AA-4830-41BA-9758-E7F52D7F027F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{23CCDF4A-91C2-4FA5-A95E-D7968E695703}.Release|x64.Build.0 = Release|x64
 		{23CCDF4A-91C2-4FA5-A95E-D7968E695703}.Release|x86.ActiveCfg = Release|Win32
 		{23CCDF4A-91C2-4FA5-A95E-D7968E695703}.Release|x86.Build.0 = Release|Win32
+		{A591A6AA-4830-41BA-9758-E7F52D7F027F}.Debug|x64.ActiveCfg = Debug|x64
+		{A591A6AA-4830-41BA-9758-E7F52D7F027F}.Debug|x64.Build.0 = Debug|x64
+		{A591A6AA-4830-41BA-9758-E7F52D7F027F}.Debug|x86.ActiveCfg = Debug|Win32
+		{A591A6AA-4830-41BA-9758-E7F52D7F027F}.Debug|x86.Build.0 = Debug|Win32
+		{A591A6AA-4830-41BA-9758-E7F52D7F027F}.Release|x64.ActiveCfg = Release|x64
+		{A591A6AA-4830-41BA-9758-E7F52D7F027F}.Release|x64.Build.0 = Release|x64
+		{A591A6AA-4830-41BA-9758-E7F52D7F027F}.Release|x86.ActiveCfg = Release|Win32
+		{A591A6AA-4830-41BA-9758-E7F52D7F027F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
