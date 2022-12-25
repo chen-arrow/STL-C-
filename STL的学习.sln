@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "案例", "案例\案例.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stack的学习", "stack的学习\stack的学习.vcxproj", "{BA69EE16-64F0-457F-BDB3-535FF08AB7F5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "queue的学习", "queue的学习\queue的学习.vcxproj", "{23CCDF4A-91C2-4FA5-A95E-D7968E695703}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{BA69EE16-64F0-457F-BDB3-535FF08AB7F5}.Release|x64.Build.0 = Release|x64
 		{BA69EE16-64F0-457F-BDB3-535FF08AB7F5}.Release|x86.ActiveCfg = Release|Win32
 		{BA69EE16-64F0-457F-BDB3-535FF08AB7F5}.Release|x86.Build.0 = Release|Win32
+		{23CCDF4A-91C2-4FA5-A95E-D7968E695703}.Debug|x64.ActiveCfg = Debug|x64
+		{23CCDF4A-91C2-4FA5-A95E-D7968E695703}.Debug|x64.Build.0 = Debug|x64
+		{23CCDF4A-91C2-4FA5-A95E-D7968E695703}.Debug|x86.ActiveCfg = Debug|Win32
+		{23CCDF4A-91C2-4FA5-A95E-D7968E695703}.Debug|x86.Build.0 = Debug|Win32
+		{23CCDF4A-91C2-4FA5-A95E-D7968E695703}.Release|x64.ActiveCfg = Release|x64
+		{23CCDF4A-91C2-4FA5-A95E-D7968E695703}.Release|x64.Build.0 = Release|x64
+		{23CCDF4A-91C2-4FA5-A95E-D7968E695703}.Release|x86.ActiveCfg = Release|Win32
+		{23CCDF4A-91C2-4FA5-A95E-D7968E695703}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
