@@ -30,5 +30,8 @@
     <ClCompile Include="数据存取.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="翻转和排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
