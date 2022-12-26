@@ -27,5 +27,8 @@
     <ClCompile Include="插入和删除.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="数据存取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
