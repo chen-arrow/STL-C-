@@ -18,5 +18,8 @@
     <ClCompile Include="构造和创建.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="大小操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
