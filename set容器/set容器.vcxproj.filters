@@ -27,5 +27,8 @@
     <ClCompile Include="查找和统计.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="set和multiset的区别.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
