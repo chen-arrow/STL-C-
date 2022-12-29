@@ -33,5 +33,8 @@
     <ClCompile Include="pair的对组实现.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="set排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
