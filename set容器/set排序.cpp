@@ -2,7 +2,7 @@
 #include<set>
 using namespace std;
 
-//改变排列方式
+//改变排列方式 仿函数
 class Mycompare
 {
 public:
