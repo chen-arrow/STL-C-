@@ -27,5 +27,8 @@
     <ClCompile Include="查找和统计.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="map的排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
