@@ -15,28 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="构造和创建.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="大小操作.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="插入和删除.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="查找和统计.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="set和multiset的区别.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="pair的对组实现.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="set排序.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="set自定义类型.cpp">
+    <ClCompile Include="map的构建.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

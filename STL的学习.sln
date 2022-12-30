@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "list的学习", "list的学
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "set容器", "set容器\set容器.vcxproj", "{760B758B-FAEE-421E-BE7B-612E640C4113}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "map的用法", "map的用法\map的用法.vcxproj", "{445D08C9-6E41-4AF1-8E85-A164143F3A08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{760B758B-FAEE-421E-BE7B-612E640C4113}.Release|x64.Build.0 = Release|x64
 		{760B758B-FAEE-421E-BE7B-612E640C4113}.Release|x86.ActiveCfg = Release|Win32
 		{760B758B-FAEE-421E-BE7B-612E640C4113}.Release|x86.Build.0 = Release|Win32
+		{445D08C9-6E41-4AF1-8E85-A164143F3A08}.Debug|x64.ActiveCfg = Debug|x64
+		{445D08C9-6E41-4AF1-8E85-A164143F3A08}.Debug|x64.Build.0 = Debug|x64
+		{445D08C9-6E41-4AF1-8E85-A164143F3A08}.Debug|x86.ActiveCfg = Debug|Win32
+		{445D08C9-6E41-4AF1-8E85-A164143F3A08}.Debug|x86.Build.0 = Debug|Win32
+		{445D08C9-6E41-4AF1-8E85-A164143F3A08}.Release|x64.ActiveCfg = Release|x64
+		{445D08C9-6E41-4AF1-8E85-A164143F3A08}.Release|x64.Build.0 = Release|x64
+		{445D08C9-6E41-4AF1-8E85-A164143F3A08}.Release|x86.ActiveCfg = Release|Win32
+		{445D08C9-6E41-4AF1-8E85-A164143F3A08}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
